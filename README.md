@@ -10,5 +10,7 @@
 <h3>4. ice boat race</h3>  
 <img src="bf33c46b-9c5c-48fb-b2bf-f21960d47601.png" alt="picture">
 <p>try not to drift off!</p>
-<img src="" alt="picture">
+<h3>5.anvil drop</h3>
+<img src="32276c37-0959-48e3-bfca-257a424a9ff2.png" alt="picture">
+<p>one palyer gets up hif high and drops anvils on the players heads, ouch!</p>
 
