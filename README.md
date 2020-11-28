@@ -7,6 +7,8 @@
 <p>just run and try not to fall down!</p>
 <h3>3.tnt wars 
 <img src="191d0c6f-6320-478f-a1dd-9e759c349136.png" alt="picture">
-<img src="" alt="picture">
+<h3>4. ice boat race</h3>  
+<img src="bf33c46b-9c5c-48fb-b2bf-f21960d47601.png" alt="picture">
+<p>try not to drift off!</p>
 <img src="" alt="picture">
 
